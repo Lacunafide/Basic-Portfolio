@@ -1,3 +1,15 @@
+header {
+    color: darkslategray;
+    background-color:#ffffff;
+    border: #cccccc;
+    height: 55px;
+    padding: 0px;
+    padding-left: 24%;
+    padding-bottom: 40px;
+    padding-right: 24%;
+    margin: 0px;
+}
+
 body {
     background-image: url(https://hdbackgroundspot.com//storage/upload/abstract-white-background/abstract-white-background-3.png);
     border-color: #dddddd;
@@ -6,20 +18,10 @@ body {
     margin: 0px;
     padding: 0;
     color: #777777;
+    line-height: 35px;
 }
 
-header {
-    color: darkslategray;
-    background-color:#ffffff;
-    border: #cccccc;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    height: 55px;
-    font-size: 28px;
-    line-height: 150%;
-    padding: 20px;
-    padding-left: 230px;
-    margin: 0px;
-}
+
 
 img {
     float: left;
@@ -27,22 +29,22 @@ img {
 }
 
 .name {
-    font-family: 'Georgia', Times, Times New Roman, serif;
-    text-align: center;
-    background: teal;
-    color: white;
-    padding: 25px;
-    float: left;
-    margin-left: 140px;
-    position: absolute;
-    top: 0px;
-    left: 20px;
+    color: #ffffff;
+    background-color:#4aaaa5;
+    border: #cccccc;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 55px;
+    font-size: 28px;
+    line-height: 150%;
+    padding: 20px;
+    float:left;
 
 }
 
 .wrapper {
     width: 960px; 
-    border: #dddddd;
+    border: 5px;
+    border-color: #cccccc;
     margin: 0 auto;
     background: #ffffff;
     padding: 20px;
@@ -63,17 +65,18 @@ img {
 }
 
 .links {
-
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     background-color: #ffffff; 
     list-style-type: none;
     text-align: right;
-    margin: 0px;
-    padding-right: 158px;
+    padding-top: 25px;
+
 }
 
 .head2 {
     color: #4aaaa5;
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-family: 'Georgia', Times, Times New Roman, serif;f`;
     width:960px;
+    font-size: 30px;
 
 }
