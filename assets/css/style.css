@@ -1,0 +1,79 @@
+body {
+    background-image: url(https://hdbackgroundspot.com//storage/upload/abstract-white-background/abstract-white-background-3.png);
+    border-color: #dddddd;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin: 0px;
+    padding: 0;
+    color: #777777;
+}
+
+header {
+    color: darkslategray;
+    background-color:#ffffff;
+    border: #cccccc;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 55px;
+    font-size: 28px;
+    line-height: 150%;
+    padding: 20px;
+    padding-left: 230px;
+    margin: 0px;
+}
+
+img {
+    float: left;
+    margin-right: 20px;
+}
+
+.name {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    text-align: center;
+    background: teal;
+    color: white;
+    padding: 25px;
+    float: left;
+    margin-left: 140px;
+    position: absolute;
+    top: 0px;
+    left: 20px;
+
+}
+
+.wrapper {
+    width: 960px; 
+    border: #dddddd;
+    margin: 0 auto;
+    background: #ffffff;
+    padding: 20px;
+    margin-top: 30px;
+    
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #666666;
+    border-top: 8px solid #4aaaa5;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.links {
+
+    background-color: #ffffff; 
+    list-style-type: none;
+    text-align: right;
+    margin: 0px;
+    padding-right: 158px;
+}
+
+.head2 {
+    color: #4aaaa5;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    width:960px;
+
+}
